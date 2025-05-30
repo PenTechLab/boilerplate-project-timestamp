@@ -3,8 +3,9 @@
 body {
 	font-family: 'Roboto', sans-serif;
 	font-size: 16px;
-	color: #222;
-	background-color: #FaFaFa;
+	color: #FaFaFa;
+	background-color: #2F4F4F; 
+	/* #4682B4 */
 	text-align: center;
 	line-height: 1.4em;
 }
@@ -42,5 +43,5 @@ li {
 }
 
 a {
-	color: #2574A9;
+	color: #6495ED;
 }
